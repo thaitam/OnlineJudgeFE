@@ -109,8 +109,8 @@ export const m = {
   // Cancel.vue
   Cancel: 'Cancel',
   // ContestDetail.vue
-  Problems: 'Vấn đề',
-  Announcements: 'Thông báo',
+  Problems: 'Problems',
+  Announcements: 'Announcements',
   Submissions: 'Submissions',
   Rankings: 'Rankings',
   Overview: 'Overview',
